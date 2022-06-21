@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scor2\\source\\repos\\Cars\\Cars\\Cars.csproj",
+      "projectUniqueName": "C:\\Users\\scor2\\Desktop\\PowerLineTasks\\Cars\\Cars\\Cars.csproj",
       "projectName": "Cars",
-      "projectPath": "C:\\Users\\scor2\\source\\repos\\Cars\\Cars\\Cars.csproj",
+      "projectPath": "C:\\Users\\scor2\\Desktop\\PowerLineTasks\\Cars\\Cars\\Cars.csproj",
       "packagesPath": "C:\\Users\\scor2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scor2\\source\\repos\\Cars\\Cars\\obj\\",
+      "outputPath": "C:\\Users\\scor2\\Desktop\\PowerLineTasks\\Cars\\Cars\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\scor2\\AppData\\Roaming\\NuGet\\NuGet.Config",

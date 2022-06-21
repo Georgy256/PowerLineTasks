@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dtse26aoO4hWWGatqQPcnvR9BMzfe68dltFLxmT2GqZoZ7KZHqABjcJshT/pw1zrw1SCQUeZx0x6G3qNyRA45Q==",
+  "dgSpecHash": "+nBQdf1AvZH3xgCl5+OJutlBdSCwC10qkM4ZUHAhEBECTOq0SJdcU/Shy65VNbZeDjxY2lD6ugLazLFx+r5cdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scor2\\source\\repos\\Cars\\Cars\\Cars.csproj",
+  "projectFilePath": "C:\\Users\\scor2\\Desktop\\PowerLineTasks\\Cars\\Cars\\Cars.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scor2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
