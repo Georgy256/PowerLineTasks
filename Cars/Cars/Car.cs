@@ -12,9 +12,16 @@ namespace Cars
         private double averageFuelEconomy;
         // Объем топливного бака
         private double fuelTankVolume;
-        // Скорость
+        // Скорость автомобиля
         private double speed;
 
+        /// <summary>
+        /// Конструтор
+        /// </summary>
+        /// <param name="vehicleType">Тип ТС</param>
+        /// <param name="averageFuelEconomy">Средний расхода топлива</param>
+        /// <param name="fuelTankVolume">Объем топливного бака</param>
+        /// <param name="speed">Скорость автомобиля</param>
         public Car(VehicleType vehicleType, double averageFuelEconomy, double fuelTankVolume, double speed)
         {
             this.vehicleType = vehicleType;
